@@ -1,0 +1,23 @@
+.form {
+    margin-top: 24px;
+    display: flex;
+      justify-content: left;
+       flex-direction: column; 
+        gap: 12px;
+        margin-bottom: 1rem;
+  
+}
+
+   input[type="number"] {
+  width: auto;
+  min-width: 120px;
+  padding: 6px 10px;
+  font-size: 1rem;
+}
+
+label {
+  display: flex;
+  flex-direction: column; 
+}
+
+ 
