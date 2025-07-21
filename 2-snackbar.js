@@ -1,0 +1,2 @@
+import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                      */import{i as e}from"./assets/vendor-BbbuE1sJ.js";e.success({title:"Готово",message:"✅ Fulfilled promise in ${delay}ms",position:"topRight",timeout:(void 0).delay});e.error({title:"Помилка",message:"Rejected promise in ${delay}ms",position:"topRight",timeout:(void 0).delay});
+//# sourceMappingURL=2-snackbar.js.map
