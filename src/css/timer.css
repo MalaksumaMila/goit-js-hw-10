@@ -1,0 +1,35 @@
+.timer {
+    margin-top: 24px;
+    display: flex;
+      justify-content: left;
+        gap: 4px;
+  
+}
+
+
+.field {
+    
+    padding: 4px 8px;
+  border-radius: 8px;
+  text-align: left;
+   display: flex;
+  flex-direction: column; 
+  
+}
+
+.field:hover {
+  transform: scale(1.05);
+}
+
+.value {
+    font-weight: 600;      
+text-transform: uppercase; 
+    text-align: center;
+    font-size: 36px;
+}
+
+.label {
+    text-align: center;
+    font-weight: 500;      
+text-transform: uppercase; 
+}
